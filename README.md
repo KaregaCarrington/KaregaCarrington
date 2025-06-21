@@ -24,8 +24,3 @@
 <a href="https://learn.microsoft.com/en-us/users/voiscorners/transcript/vyex6hy5po051g3">Azure Fundamentals (AZ-900)</a> </br>
   </br>
 <a href="https://github.com/user-attachments/assets/35470bc0-3a08-4032-8c11-fb89612d6b0b">Google IT Support Professional</a>
-
-<h2>📱Connect with me:</h2>
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/karega-carrington
