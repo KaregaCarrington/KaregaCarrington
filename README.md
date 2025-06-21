@@ -6,8 +6,8 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cornerstonian/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cornerstonian/azure-network-protocols)
 
-- <b>Git</b>
-  - [Command Line: Bash, Git & Homebrew Project](https://github.com/cornerstonian/git-practice)
+- <b>AI</b>
+  - [resuMatch: AI customizer to tailor resumes for target hiring](https://github.com/karegacarrington/resuMATCH)
  
 - <b>IT Suport: osTicket (Open Source Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/cornerstonian/osticket-prereqs)
