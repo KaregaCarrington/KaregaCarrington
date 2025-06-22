@@ -7,6 +7,16 @@
 
 - <b>AI</b>
   - [resuMatch: AI customizer to tailor resumes for target hiring](https://github.com/karegacarrington/resuMATCH)
+  - [KnightRider: AI voice chatbot with K.I.T.T dashboard replica](https://github.com/KaregaCarrington/KnightRiderAI)
+
+- <b>Automation Test Frameworks</b>
+  - [Selenium Framework: A scalable test automation framework using Java, TestNG, Page Object Model, and Cucumber BDD](https://github.com/KaregaCarrington/seleniumFramework2022)
+
+- <b>Ecommerce</b>
+  - [Storehouse: Login agnostic E-commerce webApp](https://github.com/KaregaCarrington/storehouse)
+
+- <b>Web3</b>
+  - [Media Social: decentralized social media nft music platform](https://github.com/KaregaCarrington/media_social)
 
 <b>
 <h3>🏆 Certificates:</h3>
