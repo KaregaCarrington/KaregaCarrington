@@ -4,7 +4,7 @@
 
 - <b>Current Projects</b>
   - [Desktop Care Gap Coordinator App](https://github.com/KaregaCarrington/care-gap-coordinator-mvp)
-
+  - [Hotel Booking App Automation Test Framework](https://github.com/KaregaCarrington/restful-booker-automation-test-framework)
 - <b>Cloud</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/KaregaCarrington/network-protocols/)
 
