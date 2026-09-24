@@ -3,7 +3,7 @@
 <h2>👨🏾‍💻 Software Development Projects:</h2>
 
 - <b>Current Projects</b>
-  - [Desktop Care Gap Coordinator App] (https://github.com/KaregaCarrington/care-gap-coordinator-mvp)
+  - [Desktop Care Gap Coordinator App](https://github.com/KaregaCarrington/care-gap-coordinator-mvp)
 
 - <b>Cloud</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/KaregaCarrington/network-protocols/)
